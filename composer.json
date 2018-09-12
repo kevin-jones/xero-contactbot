@@ -1,0 +1,6 @@
+{
+    "require": {
+        "calcinai/xero-php": "^1.8",
+        "soundasleep/html2text": "^0.5.0"
+    }
+}
